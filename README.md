@@ -1,6 +1,6 @@
 # nutri_quest
 
-Aplicacion de nutricion
+Aplicacion de nutricion Uneatlantico.
 
 ## Getting Started
 
